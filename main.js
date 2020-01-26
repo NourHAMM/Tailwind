@@ -92,13 +92,13 @@ const move = (element, destination, convertTo) => {
 
       element.classList.remove(
 
-        "text-red-500",
+        "text-orange-500",
 
         "line-through",
 
-        "hover:bg-red-500",
+        "hover:bg-orange-500",
 
-        "hover:text-white"
+        "hover:text-green"
 
       );
 
